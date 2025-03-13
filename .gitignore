@@ -1,0 +1,24 @@
+# Исключение виртуальной среды Python
+venv/
+
+# Файлы настроек и секретных данных
+.env
+
+# Кеши и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+
+# Файлы логов
+*.log
+
+# SQLite базы данных
+*.sqlite3
+*.db
+
+# Jupyter Notebook контрольные файлы
+.ipynb_checkpoints/
+
+# Системные файлы (например, для macOS, Windows)
+.DS_Store
+Thumbs.db
